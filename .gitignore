@@ -1,0 +1,10 @@
+# Binaries
+bin/
+
+# IDE Stuff
+.idea/
+.vscode/
+.DS_Store
+
+# Coverage Files
+*.out
